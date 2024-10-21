@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 import sqlite3
 
-API_KEY = 'your_api_key'  # Replace with your OpenWeatherMap API key
+API_KEY = '9d17fca8edfc527d5032abb0e71b4a27'  # Replace with your OpenWeatherMap API key
 CITIES = ["Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata"]  # Add more cities as needed
 DATABASE = 'weather_data.db'
 
